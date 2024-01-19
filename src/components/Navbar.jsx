@@ -5,7 +5,7 @@ import { IoLogoGithub } from "react-icons/io5";
 
 export default function Navbar() {
     return (
-        <div className="fixed top-0 z-10 w-full h-[12vh] flex justify-between items-center px-2 md:px-20 md:bg-gradient-to-b from-[rgba(0,0,0,0.5)] to-transparent">
+        <div className="fixed top-0 z-10 w-full h-[12vh] flex justify-between items-center px-2 md:px-20 bg-gradient-to-b from-[rgba(0,0,0,0.5)] to-transparent">
             <Link href={"/"} className="flex items-center md:gap-4 gap-2 text-[20px] md:text-[40px] font-bold">
                 <div>
                     <Image

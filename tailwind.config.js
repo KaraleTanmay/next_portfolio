@@ -9,6 +9,8 @@ module.exports = {
         extend: {
             backgroundImage: {
                 "blood-moon": "url(/bgImages/bg.webp) ",
+                "night-moon": "url(/bgImages/projects-bg.jpg) ",
+                "cold-moon": "url(/bgImages/cold-moon.jpg) ",
                 "blood-moon-center": "url(/bgImages/mobile-bg.webp)"
             },
             fontFamily: {
